@@ -1,6 +1,6 @@
 # Intervened-Reservoir-Computing
 
-In this repository we show the code for _Detecting Dynamical Causality via Intervened Reservoir Computing_ by J.Zhao and S.Leng.
+In this repository we show the codes for _[Detecting Dynamical Causality via Intervened Reservoir Computing](https://www.nature.com/articles/s42005-024-01730-6)_ by Zhao J., Leng S. et al.
 
 
 # Instructions for use
